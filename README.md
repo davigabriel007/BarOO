@@ -7,10 +7,7 @@ Desafio feito usando classes, métodos de instância e métodos estáticos.
 
 A área de trabalho possui uma pasta importante:
 
-- `src`: contém a classe e o métido main
+- `src`: contém a classe e o método main
 
 Os arquivos compilados irão para a pasta `bin` por padrão.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
