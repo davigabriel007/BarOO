@@ -1,17 +1,15 @@
-## Getting Started
+## Desafio Bar OO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um desafio básico proposto pelo professor Nélio que visa colocar os primeiros conhecimentos em OO à prova.
+Desafio feito usando classes, métodos de instância e métodos estáticos.
 
-## Folder Structure
+## Estrutura
 
-The workspace contains two folders by default, where:
+A área de trabalho possui uma pasta importante:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: contém a classe e o métido main
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Os arquivos compilados irão para a pasta `bin` por padrão.
 
 ## Dependency Management
 
